@@ -1,0 +1,8 @@
+/home/tingwei/TIScamera/build/CMakeFiles/edit_cache.dir
+/home/tingwei/TIScamera/build/CMakeFiles/rebuild_cache.dir
+/home/tingwei/TIScamera/build/src/ImageSource/CMakeFiles/edit_cache.dir
+/home/tingwei/TIScamera/build/src/ImageSource/CMakeFiles/rebuild_cache.dir
+/home/tingwei/TIScamera/build/src/ImageSource/CMakeFiles/TIScamera.dir
+/home/tingwei/TIScamera/build/src/ImageSource_test/CMakeFiles/edit_cache.dir
+/home/tingwei/TIScamera/build/src/ImageSource_test/CMakeFiles/rebuild_cache.dir
+/home/tingwei/TIScamera/build/src/ImageSource_test/CMakeFiles/TIScamera_test.dir

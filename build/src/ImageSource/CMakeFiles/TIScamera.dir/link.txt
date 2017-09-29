@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTIScamera.a  CMakeFiles/TIScamera.dir/v4ldevice.cpp.o CMakeFiles/TIScamera.dir/ImageSource.cpp.o
+/usr/bin/ranlib libTIScamera.a
